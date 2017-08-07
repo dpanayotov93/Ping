@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Logs
 logs
 *.log
@@ -57,3 +58,10 @@ typings/
 # dotenv environment variables file
 .env
 
+=======
+# https://git-scm.com/docs/gitignore
+# https://help.github.com/articles/ignoring-files
+# Example .gitignore files: https://github.com/github/gitignore
+/bower_components/
+/node_modules/
+>>>>>>> Initial commit (npm init, git init, empty html5 startup)
